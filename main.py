@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 
+# uvicorn main:app --reload --host 192.168.30.155
+
 app = FastAPI(
     title="Первое приложение на FastAPI"
 )
