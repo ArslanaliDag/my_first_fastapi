@@ -1,6 +1,4 @@
-# My First Project
-
-## Мое первое приложение на FastAPI.
+# Мое первое приложение на FastAPI.
 
 ## Курс по FastAPI от Артёма Шумейко.
 ### [Ссылка на YouTube курс](https://www.youtube.com/playlist?list=PLeLN0qH0-mCVQKZ8-W1LhxDcVlWtTALCS)  
